@@ -1,13 +1,13 @@
 # B3 Devops - TP 1
 
-## Info
+## ℹ Info
 
 mail: guillaume.chateauroux@ynov.com
 github_username: ChxGuillaume
 
-## Manual Install
+## 🛠 Manual Install
 
-### Commands
+### ✍ Commands
 
 ```shell
 sudo apt install openssh-server 
@@ -25,9 +25,9 @@ sudo apt install nginx
 
 
 
-## Vagrant Install
+## ⚙ Vagrant Install
 
-### Commands
+### ✍ Commands
 
 ```shell
 vagrant up --provider=virtualbox
